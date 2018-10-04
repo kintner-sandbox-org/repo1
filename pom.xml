@@ -380,13 +380,6 @@
           <scope>test</scope>
       </dependency>
 
-       <dependency>
-377           <groupId>com.arthurnn</groupId>
-378           <artifactId>cafe</artifactId>
-379           <version>1.0.0</version>
-380           <scope>test</scope>
-381       </dependency>
-
     </dependencies>
 
 
