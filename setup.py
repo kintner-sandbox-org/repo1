@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
   install_requires=[
-    'tensorflow==2.1.0'
+    'tensorflow==2.7.2'
   ],
 )
 
